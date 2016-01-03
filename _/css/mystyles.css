@@ -1,0 +1,28 @@
+body {
+  font-family: 'Signika', sans-serif;
+  background-color: #EBE9EA;
+}
+
+.centercropped {
+  height: 300px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  color: #414146;
+  font-size: 500%;
+  line-height: 300px;
+}
+
+h2 {
+  font-size: 300%;
+}
+
+.plain {
+  font-size: 120%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+img[src="images/logo.png"] {
+  height: 150px;
+  width: auto;
+}
