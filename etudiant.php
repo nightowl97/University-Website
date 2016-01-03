@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Welcome to NFST - Home</title>
+    <title>Welcome to NFST - Etudiant</title>
 
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
@@ -16,7 +16,7 @@
       <?php include '_/components/php/header.php'; ?>
     	<div class="content row">
     		<section class="main col col-lg-9">
-    			<h2>Welcome to NFST</h2>
+    			<h2>Page étudiants</h2>
     		</section><!--Main section -->
     		<section class="sidebar col col-lg-3">
 
