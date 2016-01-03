@@ -22,7 +22,7 @@ h2 {
   text-justify: inter-word;
 }
 
-img[src="images/logo.png"] {
+img[src="../images/logo.png"] {
   height: 150px;
   width: auto;
 }
