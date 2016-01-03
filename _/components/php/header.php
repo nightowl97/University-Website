@@ -2,7 +2,7 @@
   <div class="col-lg-12">
     <header class="clearfix">
       <section id="logo">
-        <a href="index.php"><img src="/images/logo.png" alt="logo main"></a>
+        <a href="index.php"><img src="/images/logo.PNG" alt="logo main"></a>
       </section>
 
       <div class="navbar navbar-inverse">
